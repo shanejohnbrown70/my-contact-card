@@ -1,0 +1,9 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Brown;Shane;;;
+FN:Shane Brown
+ORG:CREATE Foundation
+TITLE:Program Facilitator
+TEL;TYPE=CELL,VOICE:+61434384033
+EMAIL;TYPE=INTERNET,WORK:shane.brown@create.org.au
+END:VCARD
